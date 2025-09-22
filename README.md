@@ -19,8 +19,8 @@
 
 <p align="left">
 
-  <img height = 140em src="https://github-readme-stats.vercel.app/api?username=pauloalex01&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img height = 140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalex01&layout=compact&langs_count=6&theme=red" alt="Top Languages" />
+  <img align="left" height = 140em src="https://github-readme-stats.vercel.app/api?username=pauloalex01&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="left" height = 140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalex01&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
 </p>
 
 ---
