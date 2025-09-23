@@ -15,13 +15,15 @@
   <img align='right' height = "100"  alt="Paulo-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVoeDlsOXk0MngweTJ4OGRkNzg4dGFuMHRwOTM0cTc0M2MyMjNxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/izHOlLWMNC8ZhipClJ/giphy.gif"
 </div>
 
----
+##
 
-<p align="left">
-
+<div style="display: inline_block"><br>
   <img align="left" height = 140em src="https://github-readme-stats.vercel.app/api?username=pauloalex01&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img align="right" height = 140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalex01&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
-</p>
+  </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalex01&layout=compact&theme=dark&hide_title=true)
+
+
 
 ---
 
